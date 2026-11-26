@@ -35,3 +35,10 @@ The flow represents the intended user experience, not verified implementation de
 ## Reproduce locally
 
 Source code is not included in this repository. Add the application source, configuration, install steps, and model/provider details before presenting it as a reproducible project.
+
+## Architecture
+
+
+![GEN-AI-RESUME-ASSISTANT architecture map](docs/images/gen-ai-resume-assistant-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/gen-ai-resume-assistant-architecture.svg)
